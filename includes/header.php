@@ -42,7 +42,7 @@ date_default_timezone_set("Asia/Dhaka");
       <li id="topNavManageOrder" style="background-color:#459845;border-right: dotted 2px #1d6b1d;"><a style="color:#ffffff;" href="manageOrders.php">List Sell Orders</a></li>
       <li id="topNavManageOrder" style="background-color:#459845;"><a style="color:#ffffff;" href="specificOrder.php">View an Sell order</a></li> 
 
-      <li id="topNavAddOrder" style="border-right: solid 1px #ddd;"><a style="color:black;" href="purchaseOrders.php">Purchase Product</a></li>
+      <li id="topNavAddOrder" style="border-right: solid 1px #ddd;"><a style="color:black;" href="purchaseproducts.php">Purchase Product</a></li>
       <li id="topNavManageOrder" style="border-right: solid 1px #ddd;"><a style="color:black;" href="purchaseManageOrders.php">List Of Purchase Product</a></li>
       <li id="topNavManageOrder" style=""><a style="color:black;" href="specificPurchaseOrder.php">View of Purchase Product</a></li>
 </ul>

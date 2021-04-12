@@ -12,7 +12,7 @@
         <div class="panel-heading">Listing all Orders</div>
         <div class="panel-body">
 
-          <table class="tables" id="manageOrdersTable" style="width:100%;">
+          <table class="tables" id="managePurchaseTable" style="width:100%;">
             <thead>
               <tr>
                 <th>Order Id</th>
@@ -31,6 +31,6 @@
     </div>  
   </div>
 </div>
-<script type="text/javascript" src="custom/js/orders.js"></script>
+<script type="text/javascript" src="custom/js/purchase.js"></script>
 
 <?php require_once 'includes/footer.php'; ?>

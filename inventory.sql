@@ -285,8 +285,8 @@ ALTER TABLE `orders`
   --
 -- AUTO_INCREMENT for table `orders`
 --
-ALTER TABLE `purchases`
-  MODIFY `purchase_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=22;
+-- ALTER TABLE `purchases`
+--   MODIFY `purchase_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=22;
 --
 -- AUTO_INCREMENT for table `product`
 --
